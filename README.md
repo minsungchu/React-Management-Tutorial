@@ -1,4 +1,5 @@
 ## Management System
+
 본 프로젝트는 React 강의 목적으로 만들어진 고객 관리 시스템(Management System)입니다.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,12 +70,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
-### 설치순서
-
-1. nodejs 설치 : www.nodejs.org에서 설치
-2. create-react-app 설치 : 터미널에서 npm install -g create-react-app
-3. 리액트 앱 생성 : 터미널에서 create-react-app management 입력
 
 ### 설치순서
 
